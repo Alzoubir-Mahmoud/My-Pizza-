@@ -12,7 +12,7 @@ img {
   body {
     /* Set the background image to your GIF */
     background: url('wormhole-astronaut-3840x2160-9640.jpg') no-repeat center center fixed;
-    
+    color:#fff;
     
     background-size: cover;
     
